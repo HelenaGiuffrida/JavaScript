@@ -1,9 +1,9 @@
-import{cliente} from "./Cliente.js"
+import{Cliente} from "./Cliente.js"
 import{ContaCorrente} from "./ContaCorrente.js"
 
 const cliente1 = new Cliente();
 cliente1.nome = "Ricardo";
-cliente1.cpf = 1123232321; 
+cliente1.cpf = 1123232321;
 
 const cliente2 = new Cliente();
 cliente2.nome = "Alice";
